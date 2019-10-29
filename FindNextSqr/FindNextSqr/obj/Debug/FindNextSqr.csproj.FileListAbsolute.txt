@@ -1,0 +1,6 @@
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FindNextSqr\FindNextSqr\bin\Debug\FindNextSqr.exe.config
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FindNextSqr\FindNextSqr\bin\Debug\FindNextSqr.exe
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FindNextSqr\FindNextSqr\bin\Debug\FindNextSqr.pdb
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FindNextSqr\FindNextSqr\obj\Debug\FindNextSqr.csproj.CoreCompileInputs.cache
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FindNextSqr\FindNextSqr\obj\Debug\FindNextSqr.exe
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\FindNextSqr\FindNextSqr\obj\Debug\FindNextSqr.pdb
